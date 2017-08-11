@@ -1,0 +1,9 @@
+#myCarouselsky .nav a small {
+    display:block;
+}
+#myCarouselsky .nav {
+	background:#eee;
+}
+#myCarouselsky .nav a {
+    border-radius:0px;
+}
